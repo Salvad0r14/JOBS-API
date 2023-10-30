@@ -59,4 +59,4 @@ const start = async () => {
 
 start()
 
-//9:10 - security
+//9:26 deployment
